@@ -21,17 +21,19 @@
 
 ### CDN 和托管服务
 
-根据您访问的节点不同，以下服务提供商可能会收集您的信息：
+本网站由以下服务提供商托管：
 
-**Cloudflare**
+**Tencent EdgeOne Pages**
 - 可能收集的信息：IP 地址、访问时间、请求的页面、浏览器信息
-- 用途：提供 CDN 服务、安全防护、性能优化
-- 隐私政策：[Cloudflare 隐私政策](https://www.cloudflare.com/privacypolicy/)
+- 用途：提供 CDN 服务、网站托管、安全防护、性能优化
+- 主域名：`blog.2b2x.cn`
 
-**Netlify**
+**Vercel**
 - 可能收集的信息：IP 地址、访问日志、性能数据
-- 用途：网站托管、部署服务
-- 隐私政策：[Netlify 隐私政策](https://www.netlify.com/privacy/)
+- 用途：域名重定向服务
+- 重定向域名：`2x.nz`
+
+为了提供更好的访问体验，无论您通过哪个域名访问本网站，最终都会被重定向到 `blog.2b2x.cn` 。
 
 ### 分析和统计服务
 
